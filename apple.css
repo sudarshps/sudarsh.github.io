@@ -1,0 +1,281 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+    
+.fa-brands.fa-apple{
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    color: #a19696;
+
+}.fa-brands.fa-apple:hover{
+    color: #fff;
+}.fa-solid.fa-magnifying-glass{
+    margin-top: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    color: #a19696;
+}.fa-solid.fa-magnifying-glass:hover{
+    color: #fff;
+}
+.topbar{
+    width:100%;
+    background-color: rgb(39, 38, 38);
+    text-align: center;
+    height: 40px;
+    
+    
+}.topbar ul{
+    display: inline-flex;
+    list-style: none;
+    
+}.topbar ul li{
+    width: 100%;
+    padding: 15px;
+    font-size: 8px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+
+}.topbar ul li a{
+    text-decoration: none;
+    color: #a19696;
+}.active,.topbar ul li :hover{
+color: #fff
+}.disbar{
+    min-height: 25px;
+    width: 100%;
+    background-color: #243858;
+    text-align: center;
+    line-height: 25px;
+    
+    
+}.disbarfont{
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 8px;
+
+}#linkdis{
+    color: #ffcd36;
+}
+.pro15img-div{
+ width: 100%;
+ min-height: 100px;
+ position: relative;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.pro15img{
+    height: 100%;
+    width: 100%;
+}
+.header1{
+    margin-left: 20%;
+    margin-top: 12%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    position: absolute;
+    top: 0;
+    color: #9b9090;
+    
+}.link-div{
+    position: absolute;
+    top:0;
+    margin-left: 28%;
+    margin-top: 40%;
+}
+
+
+.link1{
+    margin-top: 100%;
+    text-decoration: none;
+    padding-left: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(73, 73, 234);
+font-size: 14px;
+}.img2-div{
+    width: 100%;
+ min-height: 100px;
+ position: relative;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+#i15img{
+    width:100%;
+    height:100%;
+}
+.header2{
+    margin-left: 32%;
+    margin-top: 3%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9px;
+    position: absolute;
+    top: 0;
+    color: #fff;
+}.link2-div{
+    position: absolute;
+    top:0;
+    margin-left: 42%;
+    margin-top: 8%;
+}
+
+.link2{
+    margin-top: 20%;
+    text-decoration: none;
+    padding-left: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(24, 24, 244);
+}.watch-div{
+    width:100%;
+    height:auto;
+    position: relative;
+    display: inline-block;
+    margin-top: 10px;
+    
+}#watchimg{
+    height: 100%;
+    width: 100%;
+}.main-div{
+    width: 100%;
+    height: 500px;
+    
+}.img4-div{
+    width:48%;
+    height:220px;
+    float: left;
+    margin: 10px;
+}.watch2img{
+    width:100%;
+    height:100%;
+}.img5-div{
+    width:48%;
+    height:220px;
+    float: right;
+    margin: 10px;
+    margin-left: 0px;
+}.img6-div{
+    float: left;
+    width: 48%;
+    margin: 10px;
+    height: 220px;
+}.img6-7{
+    width:100%;
+    height:100%;
+}.img7-div{
+    width:48%;
+    height:220px;
+    float: right;
+    margin: 10px;
+    margin-left: 0px;
+}.div-bottom{
+    width: 100%;
+    height:500px;
+    background-color: rgb(244, 245, 245);
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}.div-btm-1{
+    height:50px;
+    width:100%;
+
+}.bottom-text{
+font-size: 9px;
+font-family: 'Times New Roman', Times, serif;
+color: #848282;
+}#hr-bottom{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}.div-btm-col-1{
+    width:20%;
+    height: 50px;
+    float: left;
+
+}
+#headertext{
+    padding-bottom: 10px;
+    font-size: 10px;
+    color: #474444;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;;
+    
+}.div-btm-col-1 ul{
+    list-style: none;
+    
+}.subtext{
+    padding-bottom: 10px;
+    font-size: 8px;
+    color: #848282;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;;
+}.subtext a{
+    text-decoration: none;
+    color: #848282;
+}#headertext2{
+    font-size: 10px;
+    color: #474444;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+    padding-top: 10px;
+}#subtext2{
+    font-size: 8px;
+    color: #848282;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;;
+    padding-top: 10px;
+}#subtext2 a{
+    text-decoration: none;
+    color: #848282;
+}.div-btm-col-2{
+   float: left;
+    margin-left: 20px;
+}.div-btm-col-2 ul{
+    list-style: none;
+}.div-btm-col-3{
+    float: left;
+     margin-left: 60px;
+}.div-btm-col-3 ul{
+    list-style: none;
+}.div-btm-col-4{
+    margin-left: 60px;
+    float: left;
+}.div-btm-col-4 ul{
+    list-style: none;
+}.div-btm-col-5{
+    margin-left: 60px;
+    float: left;
+}.div-btm-col-5 ul{
+    list-style: none;
+}.foot-btm-text{
+    color: #848282;
+    font-size: 8px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;;
+}.foot-btm-2{
+    display: inline-flex;
+}#copy-foot-btm-text2{
+    color: #848282;
+    font-size: 8px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;;
+}
+.foot-btm-text2{
+    display: inline-flex;
+    list-style: none;
+    color: #848282;
+    font-size: 8px;
+    padding: 5px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;;
+}.foot-btm-text2 a{
+    text-decoration: none;
+}.foot-btm-text2 a{
+    color: #848282;
+}
+
+
+.btm-link-div{
+    margin-left: 30px;
+}.btm-link-div-in{
+    float: right;
+    margin-left: 130px;
+}
+
+
+
+
+    
